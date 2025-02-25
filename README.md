@@ -1,2 +1,2 @@
-# Lan-Messanger
+# Secure-Lan-Messanger
 Secure LAN Messanger
